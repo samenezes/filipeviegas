@@ -1,0 +1,17 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #f6f7fa;
+}
+
+
+.header {
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+
+.Rodape {
+    background-color: chartreuse;
+    margin: 0 auto;
+    
+}
